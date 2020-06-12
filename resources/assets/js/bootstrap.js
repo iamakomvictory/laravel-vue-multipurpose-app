@@ -12,6 +12,8 @@ try {
     window.$ = window.jQuery = require('jquery');
 
     require('bootstrap');
+    require('admin-lte'); // make call to the adminLTE js files
+    
 } catch (e) {}
 
 /**
