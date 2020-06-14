@@ -23,20 +23,30 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Usining the App
 
-- :::::App Resources:::::::::
+- <:::|App Resources|:::>
 
-- <:::|SETUP FILES WE WORKEDON DURING APP PROCESS|:::>
+
+- <:::|Setup files we worked on during the app process|:::>
 - sass/app.scss
 - sass/_variable.scss
 - assets/js/app.js
 - assets/js/bootstrap.js
-- </:::|SETUP FILES WE WORKEDON DURING APP PROCESS|:::>
+- </:::|Setup files we worked on during the app process|:::>
 
-- <:::|ADMIN LTE|:::>
+- <:::|Admin Lte|:::>
 - url -> adminlte.io/docs/2.4/instalation
 - theme -> adminlte.io/themes/dev/AdminLTE/starter.html
 - installation -> npm install admin-lte@v3.0.0-alpha.2 --save
-- </:::|ADMIN LTE|:::>
+- </:::|Admin Lte|:::>
+
+- <:::|icon|:::>
+- url -> flaticon.com/free-icon/customer-spport_1055675
+- url installing withh sass -> flaticon.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+
+
+- https://fontawesome.com/how-to-use/on-the-web/using-with/sass
+- //place this in sass/app.scss// $fa-font-path:"../webfonts";
+- </:::|Flat icon|:::>
 
 ## Laravel Sponsors
 
